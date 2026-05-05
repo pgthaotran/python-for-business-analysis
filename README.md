@@ -1,10 +1,30 @@
-## Introduction
-This repository contains my coursework and group projects for MIS-301: Programming in Python for Business (Q4 2024–2025). The course emphasizes applying Python programming to solve business-related problems through data analysis, cleaning, and visualization.
+# Python for Business Analysis
 
-The repository is structured as follows:
+Python-based data analysis projects applying EDA, data cleaning, and visualization to real business datasets.
 
-- **Project 1 – Data Exploration with Python** : An introductory project focused on exploring a chosen dataset using foundational Python skills. This includes working with data types, control flows, NumPy, and Pandas to analyze data and extract meaningful insights.
+---
 
-- **Project 2 – YouTube Sentiment Analysis** : A project analyzing YouTube video performance and audience comments to understand sentiment distribution, audience engagement, and factors driving virality. The project involved combining and cleaning datasets, performing exploratory data analysis (EDA), and generating actionable recommendations for a non-technical business audience.
+## Projects
 
-This collection serves as a reference for my learning journey in Python.
+### Data Exploration with Python
+Exploratory data analysis using foundational Python tools — working with data types, control flows, NumPy, and Pandas to extract insights from a chosen dataset.
+
+📂 [`data-exploration-with-python/`](./data-exploration-with-python)
+
+---
+
+### YouTube Sentiment Analysis
+Analysis of YouTube video performance and audience comments to understand sentiment distribution, audience engagement, and factors driving virality — with actionable recommendations for a non-technical business audience.
+
+**Key analyses:**
+- Sentiment distribution across comments
+- Audience engagement patterns
+- Factors influencing video virality
+
+📂 [`youtube-sentiment-analysis/`](./youtube-sentiment-analysis)
+
+---
+
+## Tools
+
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `NLP` · `Jupyter Notebook`
